@@ -7,9 +7,11 @@
    >The aim of the project is to to bring together the skills I have learnt about: if-else statements, logic operators.
 ##    Installation instructions
 1. git clone this repo
-1. Run milestone_2.py in your command line.
+
 ##    Usage instructions
-Interact with the program through the command line.
+1. Run milestone_3.py in your command line.
+1. Interact with the program through the command line.
+   
 ##    File structure of the project
 Files are organised chronologically by milestone currently.
 ##    License information
