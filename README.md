@@ -19,7 +19,7 @@ git clone this repo using the command line:
 Versions of the program are chronologically organised in separate files by milestone.
 
 ##   Future ideas
-1. ask the user to input words for the word list.
+1. allow the user to input words for the list that the program randomly chooses from before the game begins.
 1. allow the user to choose premade categories of word lists.
 1. have the computer be the guesser.
 1. have a GUI.
