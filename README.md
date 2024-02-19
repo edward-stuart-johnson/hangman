@@ -8,10 +8,10 @@
 
 ##    Installation instructions
 git clone this repo using the command line:
->git clone https://github.com/edward-stuart-johnson/hangman299.git
+>git clone https://github.com/edward-stuart-johnson/hangman.git
 
 ##    Usage instructions
-1. Navigate to the hangman299 folder.
+1. Navigate to the "hangman" folder.
 1. Run milestone_5.py in your command line.
 1. Interact with the program through the command line.
    
